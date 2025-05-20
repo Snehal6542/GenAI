@@ -1,0 +1,9 @@
+# NOTE :
+
+Due to hardware limitations on my local machine, running large-scale models, particularly in Tasks 4 and 5, has resulted in high memory consumption. As a result, 
+the execution either takes a significant amount of time or causes the Jupyter Notebook kernel to crash. Despite optimizing the code and trying multiple approaches,
+the limited system resources affected the model's ability to generate high-quality outputs, which may appear slightly blurred. I’ve still included the best possible
+results obtained under these constraints.
+For optimal performance, it is recommended to run the models on a machine with a higher GPU memory or through a cloud-based environment like Google Colab or AWS.
+
+Thank you for your understanding.
